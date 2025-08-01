@@ -4,20 +4,20 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Luis Cueto — Mobile & Web Developer",
   author: "Luis Cueto",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-  lang: "en",
-  siteLogo: "/alejandro-small.jpg",
+    "Ingeniero en Mecatrónica con base en Oaxaca, MX. Desarrollador Web y diseño de aplicaciones.",
+  lang: "es",
+  siteLogo: "/alfonso-small.jpg",
   navLinks: [
     { text: "Experience", href: "#experience" },
     { text: "Projects", href: "#projects" },
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/immois/astro-zen" },
-    { text: "LinkedIn", href: "https://github.com/immois/astro-zen" },
-    { text: "Github", href: "https://github.com/immois/astro-zen" },
-    { text: "Youtube", href: "https://github.com/immois/astro-zen" },
-    { text: "Dribbble", href: "https://github.com/immois/astro-zen" },
+    { text: "Twitter", href: "https://github.com/feqoet" },
+    { text: "LinkedIn", href: "https://github.com/feqoet" },
+    { text: "Github", href: "https://github.com/feqoet" },
+    { text: "Youtube", href: "https://github.com/feqoet },
+    { text: "Dribbble", href: "https://github.com/feqoet" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -26,17 +26,17 @@ export const SITE_CONFIG: SiteConfig = {
 export const SITE_CONTENT: SiteContent = {
   hero: {
     name: "Luis Alfonso Cueto",
-    specialty: "Mobile & Web Developer",
+    specialty: "Desarrollador Web",
     summary:
-      "Developer based in Oaxaca, MX. I specialize in UI design, web and mobile application development and maintenance.",
+      "Desarrollador web y programador de herramientas tecnológicas",
     email: "feqoet@email.com",
   },
   experience: [
     {
-      company: "Zalmart",
-      position: "Lead Android Developer",
-      startDate: "May 2018",
-      endDate: "Sept 2020",
+      company: "Ópticas América",
+      position: "Soporte Técnico",
+      startDate: "Junio 2018",
+      endDate: "Febrero 2019",
       summary: [
         "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
         "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
@@ -44,8 +44,8 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Bankit",
-      position: "Mobile Developer",
+      company: "Oaxhack",
+      position: "Profe. de Robotica Educativa",
       startDate: "Feb 2017",
       endDate: "May 2018",
       summary: [
@@ -54,8 +54,8 @@ export const SITE_CONTENT: SiteContent = {
       ],
     },
     {
-      company: "Driveer",
-      position: "Frontend Developer",
+      company: "Liblap",
+      position: "Diseñador de aplicaciones web",
       startDate: "Jun 2015",
       endDate: "Oct 2016",
       summary:
@@ -64,35 +64,33 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Spotifu Music",
-      summary: "A music streaming app that emulates Spotify's core features.",
+      name: "C.V.E",
+      summary: "Conciertos Vívidos: Plataforma de conciertos en vivo y pregrabados",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://cve.club.rock",
       image: "/spotifu.png",
     },
     {
-      name: "Shopp App",
-      summary: "An e-commerce platform that replicates Shopify's key features.",
+      name: "C.S.O.S",
+      summary: "Robótica para la comunicación y la seguridad.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "https://csos.github.com",
       image: "/shopify-clon.png",
     },
     {
-      name: "ClonTagram",
-      summary: "A social network that replicates the features of Instagram",
+      name: "F.T",
+      summary: "Feqoet es una red social de poetas y restaurantes, validamos criticos de comida",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
-      image: "/clone-ig.png",
+      linkSource: "https://feqoet.rest/",
+      image: "/logo-ft.png",
     },
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
-
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
-    `,
+    Hola, soy Luis, me apasiona las nuevas tecnologías en especial las de diseño, desarrollo de aplicaciones web y las de cyberseguridad.
+    Por más de 10 años mi enfoque radica en el open source en software y hardware, el aprendizaje autodidacta y los sistemas de seguridad linux.`,
     image: "/alejandro-big.jpg",
   },
 };
 
-// #5755ff
+// #FFFFFF
