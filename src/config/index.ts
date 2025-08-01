@@ -59,7 +59,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Jun 2015",
       endDate: "Oct 2016",
       summary:
-        "Developed and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Developedx and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
     },
   ],
   projects: [
@@ -89,7 +89,7 @@ export const SITE_CONTENT: SiteContent = {
     description: `
     Hola, soy Luis, me apasiona las nuevas tecnologías en especial las de diseño, desarrollo de aplicaciones web y las de cyberseguridad.
     Por más de 10 años mi enfoque radica en el open source en software y hardware, el aprendizaje autodidacta y los sistemas de seguridad linux.`,
-    image: "/alejandro-big.jpg",
+    image: "/alfonso-big.jpg",
   },
 };
 
