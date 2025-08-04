@@ -13,11 +13,11 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "Twitter", href: "https://github.com/feqoet" },
-    { text: "LinkedIn", href: "https://github.com/feqoet" },
-    { text: "Github", href: "https://github.com/feqoet" },
-    { text: "Youtube", href: "https://github.com/feqoet },
-    { text: "Dribbble", href: "https://github.com/feqoet" },
+    { text: "Twitter", href: "" },
+    { text: "LinkedIn", href: "" },
+    { text: "Github", href: "" },
+    { text: "Youtube", href: "" },
+    { text: "Dribbble", href: "" },
   ],
   socialImage: "/zen-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
@@ -93,4 +93,4 @@ export const SITE_CONTENT: SiteContent = {
   },
 };
 
-// #FFFFFF
+//
