@@ -4,7 +4,7 @@ export const SITE_CONFIG: SiteConfig = {
   title: "Luis Cueto — Mobile & Web Developer",
   author: "Luis Cueto",
   description:
-    "Ingeniero en Mecatrónica con base en Oaxaca, MX. Desarrollador Web y diseño de aplicaciones.",
+    "Técnico en Mecatrónica con base en Oaxaca, MX. Desarrollador Web y diseño de aplicaciones.",
   lang: "es",
   siteLogo: "/alfonso-small.jpg",
   navLinks: [
@@ -68,14 +68,14 @@ export const SITE_CONTENT: SiteContent = {
       summary: "Conciertos Vívidos: Plataforma de conciertos en vivo y pregrabados",
       linkPreview: "/",
       linkSource: "https://cve.club.rock",
-      image: "/vveye-img.png",
+      image: "/vveye_prototipe.png",
     },
     {
       name: "C.S.O.S",
       summary: "Robot didactico y funcional, para la comunicación, la seguridad y la autogestión de tareas",
       linkPreview: "/",
       linkSource: "https://csos.github.com",
-      image: "/csos-robot.png",
+      image: "/csos-img.jpg",
     },
     {
       name: "F.T",
