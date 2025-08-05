@@ -66,8 +66,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "C.V.E",
       summary: "Conciertos Vívidos: Plataforma de conciertos en vivo y pregrabados",
-      linkPreview: "/",
-      linkSource: "https://cve.club.rock",
+      linkPreview: "https://cve.club.rock",
+      linkSource: "/",
       image: "/vveye_prototipe.png",
     },
     {
@@ -80,8 +80,8 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "F.T",
       summary: "Feqoet es una red social de poetas y restaurantes, validamos criticos de comida",
-      linkPreview: "/",
-      linkSource: "https://feqoet.rest/",
+      linkPreview: "https://feqoet.rest/",
+      linkSource: "/",
       image: "/logo-ft.png",
     },
   ],
