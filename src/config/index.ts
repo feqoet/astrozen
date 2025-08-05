@@ -38,9 +38,9 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Junio 2018",
       endDate: "Febrero 2019",
       summary: [
-        "Implemented advanced memory management and code optimization techniques, resulting in a reduction in application load time by 40% and a decrease in crashes by 25%. This significantly improved user experience and increased user retention by 20%.",
-        "I led a team of developers in building and integrating new features using Jetpack Android components such as LiveData and ViewModel. This enabled us to build scalable and maintainable applications, reducing the crash rate by 20% and speeding up the time to delivery of new features by 15%.",
-        "Integrated Google Pay for in-app purchases, resulting in a 35% increase in mobile transaction revenue. Additionally, implemented Firebase Analytics to gain insights into user behavior, enabling data-driven optimizations and a 30% increase in user retention.",
+        "Diseño de un sistema de seguridad con botón de pánico ble",
+        "Desarrollo de una plataforma para la gestión de contraseñas para las camaras ip.",
+        "Configuración y mantenimiento de cámaras ip",
       ],
     },
     {
@@ -49,8 +49,8 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Feb 2017",
       endDate: "May 2018",
       summary: [
-        "I designed and developed a mobile application using Flutter, allowing it to be deployed on both Android and iOS with a single codebase. This reduced development time by 50% and maintenance costs by 30%, facilitating a consistent user experience on both platforms.",
-        "I integrated biometric authentication and data encryption, significantly improving the security of user data. This implementation resulted in a 40% increase in user trust and a 25% reduction in unauthorized access attempts.",
+        "Participación en concursos de robótica con un equipo previamiente preparado por un curso de robótica educativa",
+        "Robótica educativa con lego EV3 MINDSTORMS",
       ],
     },
     {
@@ -59,7 +59,7 @@ export const SITE_CONTENT: SiteContent = {
       startDate: "Jun 2015",
       endDate: "Oct 2016",
       summary:
-        "Developedx and integrated a real-time vehicle tracking system using WebSockets, improving accuracy and data update in the application. This functionality increased user satisfaction by 30% and reduced customer service inquiries by 25%.",
+        "Maquetado, diseño, programación y mantenimiento de páginas web gratuitas para proyectos sociales",
     },
   ],
   projects: [
@@ -72,7 +72,7 @@ export const SITE_CONTENT: SiteContent = {
     },
     {
       name: "C.S.O.S",
-      summary: "Robótica para la comunicación y la seguridad.",
+      summary: "Robot didactico y funcional, para la comunicación, la seguridad y la autogestión de tareas",
       linkPreview: "/",
       linkSource: "https://csos.github.com",
       image: "/shopify-clon.png",
@@ -88,7 +88,7 @@ export const SITE_CONTENT: SiteContent = {
   about: {
     description: `
     Hola, soy Luis, me apasiona las nuevas tecnologías en especial las de diseño, desarrollo de aplicaciones web y las de cyberseguridad.
-    Por más de 10 años mi enfoque radica en el open source en software y hardware, el aprendizaje autodidacta y los sistemas de seguridad linux.`,
+    Por más de 10 años mi enfoque autodidacta radica en el open source de software y hardware, el aprendizaje autodidacta y los sistemas de seguridad linux.`,
     image: "/alfonso-big.jpg",
   },
 };
