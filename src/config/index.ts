@@ -68,14 +68,14 @@ export const SITE_CONTENT: SiteContent = {
       summary: "Conciertos Vívidos: Plataforma de conciertos en vivo y pregrabados",
       linkPreview: "/",
       linkSource: "https://cve.club.rock",
-      image: "/spotifu.png",
+      image: "/vveye-img.png",
     },
     {
       name: "C.S.O.S",
       summary: "Robot didactico y funcional, para la comunicación, la seguridad y la autogestión de tareas",
       linkPreview: "/",
       linkSource: "https://csos.github.com",
-      image: "/shopify-clon.png",
+      image: "/csos-robot.png",
     },
     {
       name: "F.T",
